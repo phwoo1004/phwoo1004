@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
 </a>
 
-![phwoo1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=phwoo1004&show_icons=true&theme=tokyonight)
+![Hyunwoo Pyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=phwoo1004&show_icons=true&theme=tokyonight)
